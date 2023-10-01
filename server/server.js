@@ -29,7 +29,7 @@ app.post("/authenticate", async (req, res) => {
       },
       {
         headers: {
-          "Private-Key": "926dc95f-f913-4349-8004-d9723285e68c",
+          "Private-Key": "1ff5572c-87a2-4d62-b02d-939557f064a0",
         },
       }
     );
